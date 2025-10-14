@@ -1,2 +1,0 @@
-# teachers
-teachers board
